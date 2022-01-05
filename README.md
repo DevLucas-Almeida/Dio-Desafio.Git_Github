@@ -1,2 +1,2 @@
-# Dio-Desafio.Git_Github
-Consolidação do aprendizado sobre Git e Github
+# Desafio de Projeto sobre Git/Github
+Repositorio criado para consolidação do aprendizado sobre Git e Github
